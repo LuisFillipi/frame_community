@@ -1,0 +1,12 @@
+body{
+    background-color:  hsl(204, 43%, 93%);
+    padding: 0;
+    margin: 0;
+    display: flex;
+    padding-top: 200px;
+    justify-content: center;
+}
+.Container{
+    display: flex;
+    
+}
